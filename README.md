@@ -23,6 +23,8 @@ through the admission process efficiently.
 - Eligibility-related query handling
 - Text compression for easy understanding
 - Student-friendly chatbot interaction
+- Web-based chatbot interface using Streamlit
+
 
 ## Technologies Used
 - Python
@@ -43,6 +45,9 @@ University-Admission-Bot-Task/
 1. Clone the repository
 2. Navigate to the project directory
 3. Run the chatbot using Python
+4. To run the web app:
+streamlit run src/web_app.py
+
 
 ```bash
 python src/bot.py
