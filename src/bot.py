@@ -1,0 +1,1 @@
+print("University AdmissionsBot is running")
